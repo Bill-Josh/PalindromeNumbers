@@ -12,7 +12,7 @@ namespace PalindromeNumbers
             //-121
             //10
             //12321
-            int TestNum = 12321;
+            int TestNum = 121;
             Console.WriteLine($"{IsPalindrome(TestNum)}");
         }
     }
