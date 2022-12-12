@@ -1,0 +1,14 @@
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.exe
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.deps.json
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.runtimeconfig.json
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.runtimeconfig.dev.json
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.dll
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\bin\Debug\netcoreapp3.1\PalindromeNumbers.pdb
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.csproj.AssemblyReference.cache
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.AssemblyInfoInputs.cache
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.AssemblyInfo.cs
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.dll
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.pdb
+C:\Users\ad_ca\source\repos\PalindromeNumbers\PalindromeNumbers\obj\Debug\netcoreapp3.1\PalindromeNumbers.genruntimeconfig.cache
