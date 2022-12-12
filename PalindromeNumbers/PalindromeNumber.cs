@@ -1,4 +1,7 @@
-﻿namespace PalindromeNumbers
+﻿/*
+ * @author Billy Bedon Pacheco
+ */
+namespace PalindromeNumbers
 {
     internal class PalindromeNumber
     {
